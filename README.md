@@ -21,4 +21,7 @@ I’m an IT student at Xavier University who strives to excel in tech. I’m con
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
 
+## 🎈 Fun Fact
+- 👾 I like playing games!
+
 Thanks for stopping by!
