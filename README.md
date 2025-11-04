@@ -2,7 +2,9 @@
 
 I’m an IT student at Xavier University who strives to excel in tech. I’m continuously learning, exploring, and growing — always hopeful about what I can achieve in this ever-evolving field.
 
-![Gwyn-Dayot's Stats](https://github-readme-stats.vercel.app/api?username=Gwyn-Dayot&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Gwyn-Dayot's Stats](https://github-readme-stats.vercel.app/api?username=Gwyn-Dayot&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
+![Gwyn-Dayot's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwyn-Dayot&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University.
