@@ -1,6 +1,6 @@
-# Hi, I'm <Gwyn>! 👋
+# Hi, I'm Gwyn! 👋
 
-I am a passionate IT student at STI College, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I’m an IT student at Xavier University who strives to excel in tech. I’m continuously learning, exploring, and growing — always hopeful about what I can achieve in this ever-evolving field.
 ![Gwyn-Dayot's Stats](https://github-readme-stats.vercel.app/api?username=Gwyn-Dayot&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
