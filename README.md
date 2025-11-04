@@ -10,7 +10,7 @@ I am a passionate IT student at STI College, driven by a curiosity for technolog
 - 📫 How to reach me: <20230028015@my.xu.edu.ph>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,figma,kotlin,java,mysql,mongodb,postman,py,pycharm,qt,vscode)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,figma,kotlin,java,mysql,mongodb,postman,py,pycharm,qt,vscode)
 
 ## 🌱 Currently Exploring
 - 🚀 Learning Full Stack Web Development
