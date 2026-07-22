@@ -2,38 +2,28 @@
 
 I'm **Gwyn Dayot**, a 4th-year **Bachelor of Science in Information Technology** student at **Xavier University – Ateneo de Cagayan**, currently seeking an **internship/practicum opportunity** where I can apply my knowledge, gain hands-on experience, and continue developing my skills in the IT field.
 
-I enjoy learning about **web development and software development,**, and I'm always open to exploring new technologies and improving my skills through projects and practical experience.
+I enjoy learning about **web development and software development,** I'm always open to exploring new technologies and improving my skills through projects and practical experience.
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 4th-year BS Information Technology student at **Xavier University – Ateneo de Cagayan**
-- 💼 Currently looking for an **IT internship/practicum opportunity**
-- 🌱 Continuously learning and improving my skills in **web and software development**
-- 💻 Interested in **frontend development, full-stack development, APIs, and databases**
-- 🎨 I enjoy creating user-friendly interfaces and working on projects that combine functionality and design
-- 📫 Reach me at: **20230028015@my.xu.edu.ph**
+-  4th-year BS Information Technology student at **Xavier University – Ateneo de Cagayan**
+-  Currently looking for an **IT internship/practicum opportunity**
+-  Continuously learning and improving my skills in **web and software development**
+-  Interested in **frontend development and full-stack development**
+-  I enjoy creating user-friendly interfaces and working on projects that combine functionality and design
+-  Reach me at: **20230028015@my.xu.edu.ph**
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,kotlin,python,mysql,mongodb,git,github,postman,figma,vscode)
 
 ---
 
-## 📚 Currently Learning
-
-- 🚀 Full-Stack Web Development
-- ⚛️ React and modern frontend development
-- 🔗 RESTful API development and integration
-- 🗄️ Database management with MySQL and MongoDB
-- 🧩 Improving my understanding of software development practices
-
----
-
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🎓 Web-Based Alumni Management System
 
@@ -51,26 +41,18 @@ A web-based pet adoption system designed to connect potential adopters with adop
 
 ---
 
-## 🏆 Achievements & Experience
+## Achievements & Experience
 
-- 🌟 Completed Git & GitHub setup and workflow activities
-- 💻 Developed academic projects involving web development, APIs, and databases
-- 🎓 Currently completing my Bachelor's Degree in Information Technology
-- 🚀 Continuously building my skills through academic projects and self-directed learning
+- Developed academic projects involving web development, APIs, and databases
+- Currently completing my Bachelor's Degree in Information Technology
 
 ---
 
-## 🎯 My Goal
+## My Goal
 
 As I prepare to enter the IT industry, I am looking for an internship where I can **learn from experienced professionals, contribute to meaningful projects, and gain practical experience in a real-world work environment**.
 
 I'm excited to learn, collaborate, and grow as an aspiring IT professional. 🚀
-
----
-
-## 🎮 Fun Fact
-
-👾 When I'm not studying or working on projects, I enjoy playing games!
 
 ---
 
