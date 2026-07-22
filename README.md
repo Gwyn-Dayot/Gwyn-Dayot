@@ -2,7 +2,7 @@
 
 I'm **Gwyn Dayot**, a 4th-year **Bachelor of Science in Information Technology** student at **Xavier University – Ateneo de Cagayan**, currently seeking an **internship/practicum opportunity** where I can apply my knowledge, gain hands-on experience, and continue developing my skills in the IT field.
 
-I enjoy learning about **web development, software development, and databases**, and I'm always open to exploring new technologies and improving my skills through projects and practical experience.
+I enjoy learning about **web development and software development,**, and I'm always open to exploring new technologies and improving my skills through projects and practical experience.
 
 ---
 
